@@ -13,3 +13,7 @@ when i instructor:<br>
 9.sharing stories to students about the real tech life and world.<br>
 11. real tech life and world.<br>
 11.Provide support outside of the classroom. <br>
+
+
+<br>
+expo stacks:https://snack.expo.dev/@samiromer2/login-and-register
