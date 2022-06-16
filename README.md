@@ -1,6 +1,6 @@
 # Samir Omer 
 
-email:samiromer2@yahoo.com
+email:  samiromer2@yahoo.com
 <br>
 when i instructor:<br>
 1.Deliver tailored teaching activities to individual students or small groups of students.<br>
