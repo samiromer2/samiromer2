@@ -13,7 +13,11 @@ when i instructor:<br>
 9.sharing stories to students about the real tech life and world.<br>
 11. real tech life and world.<br>
 11.Provide support outside of the classroom. <br>
-
+<br>
+as in now IT Soulation:<br>
+1.create web base soulations to aid small to mid-companies .
+2.off-line and online
+3.base linux servers
 
 <br>
 expo stacks:https://snack.expo.dev/@samiromer2/login-and-register
