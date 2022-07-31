@@ -14,10 +14,19 @@ when i instructor:<br>
 11. real tech life and world.<br>
 11.Provide support outside of the classroom. <br>
 <br>
+some times called IT technician due to fixing small daily problems
+<br>
+<br>
 as in now IT Soulation:<br>
 1.create web base soulations to aid small to mid-companies .
 2.off-line and online
 3.base linux servers
+<br>
+subs to that
+Web developer , 
+Systems analyst , 
+Database administrator , 
+Software developer.
 
 <br>
 expo stacks:https://snack.expo.dev/@samiromer2/login-and-register
