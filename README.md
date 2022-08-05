@@ -30,3 +30,5 @@ Software developer.
 
 <br>
 expo stacks:https://snack.expo.dev/@samiromer2/login-and-register
+<br>
+a small book:https://samir-omer.gitbook.io/build-a-basic-computer-system-one-block-at-a-time/
