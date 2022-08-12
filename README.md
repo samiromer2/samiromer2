@@ -25,7 +25,9 @@ as in now IT Soulation:<br>
 subs to that
 Web developer , 
 Systems analyst , 
-Database administrator , 
+Database administrator ,
+Computer programmer,
+Software engineer,
 Software developer.
 
 <br>
