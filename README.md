@@ -1,5 +1,11 @@
 # Samir Omer :japanese_ogre:
 
+<img
+  src="images/20190711_012102.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 150px;hight: 150px">
+
 email:  samiromer2@yahoo.com
 <br>
 when i instructor:<br>
