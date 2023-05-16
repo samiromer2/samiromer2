@@ -7,6 +7,8 @@
   style="display: inline-block; margin: 0 auto; width: 150px;hight: 150px">
 
 email:  samiromer2@yahoo.com
+Connect with me for jobs or enquiries or consult
+Linkedin:https://www.linkedin.com/in/samir-omer-015bbb162/
 <br>
 when i instructor:<br>
 1.Deliver tailored teaching activities to individual students or small groups of students.<br>
