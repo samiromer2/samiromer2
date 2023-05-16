@@ -12,6 +12,8 @@ Connect with me for jobs or enquiries or consult:
 <br>
 Linkedin:https://www.linkedin.com/in/samir-omer-015bbb162/
 <br>
+https://www.codecademy.com/profiles/array6473567923
+<br>
 when i instructor:<br>
 1.Deliver tailored teaching activities to individual students or small groups of students.<br>
 2.Make sure that the students you are working with are able to engage in the learning at hand and stay on task.<br>
