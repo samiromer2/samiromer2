@@ -7,7 +7,9 @@
   style="display: inline-block; margin: 0 auto; width: 150px;hight: 150px">
 
 email:  samiromer2@yahoo.com
-Connect with me for jobs or enquiries or consult
+<br>
+Connect with me for jobs or enquiries or consult:
+<br>
 Linkedin:https://www.linkedin.com/in/samir-omer-015bbb162/
 <br>
 when i instructor:<br>
