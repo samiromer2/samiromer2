@@ -1,62 +1,104 @@
 # Samir Omer
 
+<div align="right">
+  <img src="./images/20190711_012102.jpg" alt="Samir Omer" width="140" />
+</div>
+
+IT professional focusing on web-based solutions and Linux server administration. Experienced instructor and technical support specialist who enjoys turning real-world problems into simple, reliable systems for small to mid-sized companies.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-omer-015bbb162/)
+[![GitBook](https://img.shields.io/badge/GitBook-000?style=for-the-badge&logo=gitbook&logoColor=white)](https://samir-omer.gitbook.io/build-a-basic-computer-system-one-block-at-a-time/)
+[![Codecademy](https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/array6473567923)
+[![Email](https://img.shields.io/badge/Email-samiromer2%40yahoo.com-6c2eb9?style=for-the-badge)](mailto:samiromer2@yahoo.com)
+
+---
+
 ## About
 
-IT professional specializing in web-based solutions and Linux server administration. Experienced instructor and technical support specialist with a passion for sharing real-world tech experiences with students and delivering tailored solutions for small to mid-sized companies.
+I design, deploy, and maintain pragmatic solutions across the stack—front-end, back-end, and infrastructure—grounded in best practices and clear documentation. In the classroom, I translate complex concepts into hands-on learning experiences that stick.
 
 ---
 
-## Contact
+## Core Competencies
 
-**Email**: samiromer2@yahoo.com
+- Full‑stack web development with PHP and Laravel
+- Cross‑platform mobile app development with React Native
+- API design, authentication, and integrations
+- Linux server deployment, CI/CD, and performance optimization
+- Technical instruction and curriculum development
+- Troubleshooting, support, and stakeholder communication
 
-**Connect with me**  
-- **LinkedIn**: [Profile](https://www.linkedin.com/in/samir-omer-015bbb162/)  
-- **Codecademy**: [Profile](https://www.codecademy.com/profiles/array6473567923)
+### Tools & Technologies
+
+- Languages: PHP, JavaScript/TypeScript, Bash
+- Web: Laravel, Blade, Livewire, REST APIs
+- Mobile: React Native, Expo
+- Databases: MySQL, SQLite
+- DevOps: Linux, Nginx, Docker, GitHub Actions
+
+> If you prefer a concise CV, feel free to reach out and I’ll share a PDF.
 
 ---
 
-## Skills & Expertise
+## Experience Highlights
 
-**Related Roles**  
-Web Developer, Systems Analyst, Database Administrator, Computer Programmer, Software Engineer, Software Developer.
+### Instruction
+- Deliver tailored activities to individuals and small groups
+- Keep students engaged and on task with practical projects
+- Support social and emotional development; escalate issues appropriately
+- Assist with lesson planning and resource preparation
+- Share real-world tech experiences to connect theory with practice
 
-**Technologies**  
-*Add your specific skills here (e.g., JavaScript, Python, React, Node.js, MySQL, Linux, etc.)*
-
+### Software & IT Solutions
+- Build and ship websites and web apps with Laravel (from MVP to production)
+- Develop cross‑platform mobile apps with React Native (Expo/CLI)
+- Design secure REST APIs and integrate third‑party services
+- Deploy and maintain Linux‑based servers (Nginx, SSL, backups, monitoring)
+ 
 ---
 
-## Experience
+## What I Build
 
-### When I'm Instructing
-1. Deliver tailored activities to individuals or small groups  
-2. Keep students engaged and on task  
-3. Support social and emotional development; report issues when needed  
-4. Help manage challenging behavior and promote positive behavior  
-5. Guide and monitor student progress  
-6. Assist with lesson planning  
-7. Handle administrative tasks (e.g., preparing resources)  
-8. Share real-world tech experiences with students  
-9. Provide support outside the classroom
-
-*Sometimes called IT technician due to fixing small daily problems*
-
-### IT Solutions
-- Build web-based solutions for small to mid-sized companies (online/offline)
-- Deploy and maintain Linux-based servers
+- Websites and content‑driven platforms (Laravel + Blade/Livewire)
+- Business web apps: dashboards, CRUD, auth, payments, reporting
+- Mobile apps: React Native (iOS/Android), auth, offline‑ready, API‑driven
 
 ---
 
 ## Projects
 
-- **[Expo Snack - Login and Register](https://snack.expo.dev/@samiromer2/login-and-register)**  
-  Mobile app authentication demo built with Expo
+- **[Expo Snack — Login and Register](https://snack.expo.dev/@samiromer2/login-and-register)**  
+  Mobile authentication demo with Expo; covers signup, login, and basic state flows.
 
-- **[Build a Basic Computer System - One Block at a Time](https://samir-omer.gitbook.io/build-a-basic-computer-system-one-block-at-a-time/)**  
-  Educational guide on computer system fundamentals
+- **[Build a Basic Computer System — One Block at a Time](https://samir-omer.gitbook.io/build-a-basic-computer-system-one-block-at-a-time/)**  
+  A guided, visual explanation of computer system fundamentals aimed at beginners.
 
 ---
 
-## Additional Resources
+## Services
 
-Feel free to reach out for jobs, enquiries, or consultations!
+- **Landing Page Website**  
+  Strategy session, responsive design, copy polish, analytics, basic SEO, launch.
+
+- **Business Web App (Laravel)**  
+  Auth, roles/permissions, CRUD dashboards, reporting, payments/invoicing, API.
+
+- **Mobile App (React Native)**  
+  iOS/Android, auth, offline‑ready data sync, push notifications, API integration.
+
+- **Maintenance & Support**  
+  Security updates, performance, backups/monitoring, small feature requests.
+
+Need something custom? I can scope it and propose a clear plan and timeline.
+
+---
+
+## Contact
+
+- **Email**: [samiromer2@yahoo.com](mailto:samiromer2@yahoo.com)
+- **LinkedIn**: [linkedin.com/in/samir-omer-015bbb162](https://www.linkedin.com/in/samir-omer-015bbb162/)
+- **Codecademy**: [Profile](https://www.codecademy.com/profiles/array6473567923)
+
+Open to roles, collaborations, and consultations. Let’s talk about your project or team.
