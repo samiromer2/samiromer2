@@ -1,7 +1,5 @@
 # Samir Omer
 
-<img src="images/20190711_012102.jpg" alt="Profile photo" title="Profile photo" style="display:inline-block;margin:0 auto;width:150px;height:150px" />
-
 ## About
 
 IT professional specializing in web-based solutions and Linux server administration. Experienced instructor and technical support specialist with a passion for sharing real-world tech experiences with students and delivering tailored solutions for small to mid-sized companies.
