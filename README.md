@@ -1,48 +1,31 @@
-# Samir Omer :japanese_ogre:
+# Samir Omer
 
-<img
-  src="images/20190711_012102.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 150px;hight: 150px">
+<img src="images/20190711_012102.jpg" alt="Profile photo" title="Profile photo" style="display:inline-block;margin:0 auto;width:150px;height:150px" />
 
-email:  samiromer2@yahoo.com
-<br>
-Connect with me for jobs or enquiries or consult:
-<br>
-Linkedin:https://www.linkedin.com/in/samir-omer-015bbb162/
-<br>
-https://www.codecademy.com/profiles/array6473567923
-<br>
-when i instructor:<br>
-1.Deliver tailored teaching activities to individual students or small groups of students.<br>
-2.Make sure that the students you are working with are able to engage in the learning at hand and stay on task.<br>
-3.Support the social and emotional development of students and report any issues when necessary.<br>
-4.Support the teacher in managing challenging student behaviour and promoting positive behaviour.<br>
-5.Guide and monitor student progress.<br>
-6.Help with the planning of some lessons.<br>
-7.Carry out administrative duties, such as preparing classroom resources.<br>
-9.sharing stories to students about the real tech life and world.<br>
-11. real tech life and world.<br>
-11.Provide support outside of the classroom. <br>
-<br>
-some times called IT technician due to fixing small daily problems
-<br>
-<br>
-as in now IT Soulation:<br>
-1.create web base soulations to aid small to mid-companies .
-2.off-line and online
-3.base linux servers
-<br>
-subs to that
-Web developer , 
-Systems analyst , 
-Database administrator ,
-Computer programmer,
-Software engineer,
-Software developer.
+**Email**: samiromer2@yahoo.com
 
-<br>
-expo stacks:https://snack.expo.dev/@samiromer2/login-and-register
-<br>
-a small book:https://samir-omer.gitbook.io/build-a-basic-computer-system-one-block-at-a-time/
+**Connect with me**  
+- LinkedIn: https://www.linkedin.com/in/samir-omer-015bbb162/  
+- Codecademy: https://www.codecademy.com/profiles/array6473567923
+
+## When I’m instructing
+1. Deliver tailored activities to individuals or small groups.  
+2. Keep students engaged and on task.  
+3. Support social and emotional development; report issues when needed.  
+4. Help manage challenging behavior and promote positive behavior.  
+5. Guide and monitor student progress.  
+6. Assist with lesson planning.  
+7. Handle administrative tasks (e.g., preparing resources).  
+8. Share real-world tech experiences with students.  
+9. Provide support outside the classroom.
+
+## IT solutions
+- Build web-based solutions for small to mid-sized companies (online/offline).
+- Deploy and maintain Linux-based servers.
+
+**Related roles**  
+Web Developer, Systems Analyst, Database Administrator, Computer Programmer, Software Engineer, Software Developer.
+
+## Projects
+- Expo Snack: https://snack.expo.dev/@samiromer2/login-and-register  
+- Mini book: https://samir-omer.gitbook.io/build-a-basic-computer-system-one-block-at-a-time/
