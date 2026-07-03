@@ -1,7 +1,5 @@
 # Samir Omer
 
-
-
 IT professional focusing on web-based solutions and Linux server administration. Experienced instructor and technical support specialist who enjoys turning real-world problems into simple, reliable systems for small to mid-sized companies.
 
 <br/>
@@ -9,7 +7,7 @@ IT professional focusing on web-based solutions and Linux server administration.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-omer-015bbb162/)
 [![GitBook](https://img.shields.io/badge/GitBook-000?style=for-the-badge&logo=gitbook&logoColor=white)](https://samir-omer.gitbook.io/build-a-basic-computer-system-one-block-at-a-time/)
 [![Codecademy](https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/array6473567923)
-[![Email](https://img.shields.io/badge/Email-samiromer2%40yahoo.com-6c2eb9?style=for-the-badge)](mailto:samiromer2@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-samiromer22%40gmail.com-6c2eb9?style=for-the-badge)](mailto:samiromer22@gmail.com)
 
 ---
 
@@ -54,7 +52,7 @@ I design, deploy, and maintain pragmatic solutions across the stack—front-end,
 - Develop cross‑platform mobile apps with React Native (Expo/CLI)
 - Design secure REST APIs and integrate third‑party services
 - Deploy and maintain Linux‑based servers (Nginx, SSL, backups, monitoring)
- 
+
 ---
 
 ## What I Build
@@ -95,7 +93,7 @@ Need something custom? I can scope it and propose a clear plan and timeline.
 
 ## Contact
 
-- **Email**: [samiromer2@yahoo.com](mailto:samiromer2@yahoo.com)
+- **Email**: [samiromer22@gmail.com](mailto:samiromer22@gmail.com)
 - **LinkedIn**: [linkedin.com/in/samir-omer-015bbb162](https://www.linkedin.com/in/samir-omer-015bbb162/)
 - **Codecademy**: [Profile](https://www.codecademy.com/profiles/array6473567923)
 
