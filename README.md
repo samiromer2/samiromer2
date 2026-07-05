@@ -4,7 +4,7 @@ IT professional focusing on web-based solutions and Linux server administration.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-omer-015bbb162/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiroibrahim/)
 [![GitBook](https://img.shields.io/badge/GitBook-000?style=for-the-badge&logo=gitbook&logoColor=white)](https://samir-omer.gitbook.io/build-a-basic-computer-system-one-block-at-a-time/)
 [![Codecademy](https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/array6473567923)
 [![Email](https://img.shields.io/badge/Email-samiromer22%40gmail.com-6c2eb9?style=for-the-badge)](mailto:samiromer22@gmail.com)
