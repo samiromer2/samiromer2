@@ -1,4 +1,4 @@
-# Samir Omer
+# Samir Ibrahim
 
 IT professional focusing on web-based solutions and Linux server administration. Experienced instructor and technical support specialist who enjoys turning real-world problems into simple, reliable systems for small to mid-sized companies.
 
