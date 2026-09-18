@@ -61,4 +61,9 @@
 
 <br/>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samiromer2&" alt="samiromer2" /></p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samiromer2&show_icons=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="Samir's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiromer2&layout=compact&hide_border=true&title_color=0e75b6&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samiromer2&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="samiromer2" /></p>
