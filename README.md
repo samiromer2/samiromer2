@@ -57,7 +57,7 @@
 
 <h3 align="left">Certifications:</h3>
 
-- **NPower Canada — Junior Data Analyst** *(in progress)* · **Microsoft Azure AI Fundamentals (AI-900)** · **IBM SkillsBuild — Prompt Craft** · **B.Sc. Computer Science**
+- **NPower Canada — Junior Data Analyst**  · **Microsoft Azure AI Fundamentals (AI-900)** · **IBM SkillsBuild — Prompt Craft** · **B.Sc. Computer Science**
 
 <br/>
 
