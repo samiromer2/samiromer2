@@ -62,7 +62,7 @@
 <br/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samiromer2&show_icons=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="Samir's GitHub stats" />
+
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiromer2&layout=compact&hide_border=true&title_color=0e75b6&langs_count=8" alt="Top languages" />
 </p>
 
