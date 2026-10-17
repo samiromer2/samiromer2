@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samiromer2&label=Profile%20views&color=0e75b6&style=flat" alt="samiromer2" />
 </p>
-![CI](https://github.com/samiromer2/job-skill-radar/actions/workflows/ci.yml/badge.svg)
+
 - 🔭 I’m currently building **[French in Canada — Analytics](https://github.com/samiromer2/self-french-learning)** — a Python + SQL + dashboard project on real **Statistics Canada** census data ([live demo](https://self-french-learning.vercel.app/analytics))
 
 - 📊 I bring **10+ years of software engineering** to analytics: I clean data in **Python**, model it in **SQL**, and ship the **dashboard** myself
